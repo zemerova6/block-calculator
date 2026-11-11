@@ -6,7 +6,7 @@
 
 		@font-face {
 			font-family: 'minecraft';
-			src: url('../calculator/minecraft.ttf') format('truetype');
+			src: url('minecraft.ttf') format('truetype');
 		}
 
 		body {
